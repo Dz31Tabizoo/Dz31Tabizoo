@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rouabah Mohammed Rafik
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning OOP (C++)
+- 🌱 I’m currently full stack (C# / ADO.Net / Sql Server)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Rafik-2015@live.fr
 - 😄 Pronouns: ...
