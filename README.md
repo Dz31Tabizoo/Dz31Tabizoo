@@ -59,8 +59,7 @@ I'm a motivated Junior .NET Developer transitioning from pharmacy management to 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dz31Tabizoo&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dz31Tabizoo&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
+  </p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz31Tabizoo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
