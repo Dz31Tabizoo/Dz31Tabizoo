@@ -11,6 +11,8 @@
 
 I'm a motivated Junior .NET Developer transitioning from pharmacy management to software development. With hands-on experience in building structured desktop applications using C#, WinForms, and SQL Server, I'm now expanding my skills into modern web development with ASP.NET Core. I bring strong problem-solving skills and a unique perspective from managing complex operations in a 100+ employee pharmacy.
 
+**My Foundation:** I completed a comprehensive software engineering program at **Programming Advices by Dr. AbuHadhud**, mastering Computer Science fundamentals including Data Structures & Algorithms (Levels 1-5), Object-Oriented Programming principles, and advanced problem-solving techniques.
+
 ## 🔭 Currently Working On
 - **ASP.NET Core Web API** with Entity Framework Core
 - Building my first full-stack application with modern .NET stack
@@ -19,6 +21,8 @@ I'm a motivated Junior .NET Developer transitioning from pharmacy management to 
 
 ## 💬 Ask Me About
 - **My DVLD System** - Architecture and database design decisions
+- **Data Structures & Algorithms** implementation (linked lists, trees, hash tables)
+- **Object-Oriented Programming** principles and design patterns
 - Transitioning from **WinForms to ASP.NET Core** - Lessons learned
 - How my **pharmacy management experience** translates to software development
 - **3-Tier Architecture** implementation in real projects
@@ -59,7 +63,7 @@ I'm a motivated Junior .NET Developer transitioning from pharmacy management to 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dz31Tabizoo&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  </p>
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz31Tabizoo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
