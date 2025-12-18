@@ -11,22 +11,41 @@
 
 ## 🚀 Professional Summary
 
-Junior **.NET Developer** with a strong foundation in **C#, Object-Oriented Programming, SQL Server, and ASP.NET Core**.  
-I specialize in building **structured, maintainable applications** using clean architecture and real-world business logic.
+Junior **.NET Developer** with a strong foundation in **C#, ASP.NET Core, SQL Server, and relational database design**.  
+I build **structured, maintainable applications** with a strong focus on **clean architecture, optimized databases, and real-world business logic**.
 
-Coming from a background in **pharmacy management**, I bring strong problem-solving skills, attention to data accuracy, and experience handling complex workflows—skills that translate directly into reliable software development.
+With a background in **pharmacy management**, I bring attention to data accuracy, transactional consistency, and workflow reliability—critical skills for database-driven systems.
 
 ---
 
 ## 🧠 Technical Foundation
 
-- Solid understanding of **Computer Science fundamentals**
+- Strong **Computer Science fundamentals**
 - **Data Structures & Algorithms** (Arrays, Linked Lists, Trees, Hash Tables)
-- Strong **OOP principles** (Encapsulation, Inheritance, Polymorphism, Abstraction)
-- Clean code and separation of concerns
+- **Object-Oriented Programming** (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- Clean code, separation of concerns, and refactoring mindset
 
 🎓 Trained at **Programming Advices (Dr. AbuHadhud)**  
 Completed advanced software engineering tracks (Levels 1–5)
+
+---
+
+## 🗄️ Database & Relational Data Expertise
+
+- Designing **relational databases from scratch** based on business requirements
+- Creating **normalized schemas** (1NF, 2NF, 3NF) to reduce redundancy
+- Defining **primary keys, foreign keys, constraints, and indexes**
+- Writing **optimized T-SQL queries** for CRUD operations
+- Implementing **stored procedures** for:
+  - Business logic encapsulation
+  - Performance optimization
+  - Security and reusability
+- Applying **best practices**:
+  - Transactions and error handling
+  - Naming conventions
+  - Avoiding duplicated logic
+  - Data integrity and consistency
+- Experience translating **real-world workflows into database models**
 
 ---
 
@@ -36,12 +55,41 @@ Completed advanced software engineering tracks (Levels 1–5)
 **Technologies:** C#, WinForms, SQL Server  
 **Architecture:** 3-Tier (Presentation, Business Logic, Data Access)
 
-- Designed and implemented a **normalized relational database**
-- Built reusable business logic with strong validation rules
-- Applied OOP principles to improve maintainability and scalability
-- Implemented role-based workflows and real-world business rules
+- Designed the **entire database schema from zero**
+- Built a **fully normalized relational database**
+- Implemented tables, relationships, constraints, and indexes
+- Wrote **T-SQL stored procedures** for all core operations
+- Ensured data integrity through transactions and validation rules
+- Applied OOP and layered architecture to keep database logic clean and maintainable
 
-🔗 Repository: *Add your GitHub project link here*
+🔗 Repository: https://github.com/Dz31Tabizoo/Driving-License-Management.git
+
+---
+
+## 🧠 Computer Science & Fundamentals Projects
+
+### 🏦 Bank System – Procedural Programming (Console)
+**Technologies:** C++
+
+- Implemented core banking operations using **procedural programming**
+- Focused on control flow, functions, input validation, and business rules
+- Managed accounts, deposits, withdrawals, and balance checks
+- Exposed limitations in scalability and maintainability
+
+🔗 Repository: *https://github.com/Dz31Tabizoo/Bank-project.git*
+
+---
+
+### 🧱 Bank System – Object-Oriented Programming (Console)
+**Technologies:** C++
+
+- Designed **OOP-based domain models** (Account, Client, Transaction)
+- Applied **encapsulation and separation of responsibilities**
+- Improved extensibility, readability, and maintainability
+- Demonstrated advantages of OOP over procedural design
+
+🔗 Repository: *https://github.com/Dz31Tabizoo/Bank-Project-Practicing-OOP.git*
+
 
 ---
 
@@ -54,7 +102,6 @@ Completed advanced software engineering tracks (Levels 1–5)
 - Preparing for **Microsoft Azure Fundamentals**
 
 ---
-
 
 ## 🛠️ Languages & Tools
 
@@ -70,66 +117,29 @@ Completed advanced software engineering tracks (Levels 1–5)
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> 
-
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
-
-
 
 ---
 
 ## 💬 You Can Ask Me About
 
-- Designing **3-Tier Architecture** in real projects
-- Database design & SQL optimization
+- Relational database design & normalization
+- Writing optimized **T-SQL & stored procedures**
+- Designing schemas from business requirements
+- 3-Tier Architecture and separation of concerns
 - OOP best practices in C#
-- Transitioning from **WinForms to ASP.NET Core**
-- Applying CS fundamentals to real-world problems
-- Career switching into tech with real responsibilities
+- Transitioning from WinForms to ASP.NET Core
 
 ---
 
 ## 🎯 What I’m Looking For
 
 - Junior .NET Developer role (Backend or Full-Stack)
-- Team with mentorship and code reviews
-- Real production projects with clean architecture
+- Database-driven systems and real business logic
+- Mentorship-focused teams
 - Remote or relocation-friendly opportunities
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: **rafikswatch4530s@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/rafik-rouabah-794470355
-- 📱 WhatsApp: **+213 559 060 036**
-- 📍 Location: Chlef, Algeria (Open to Remote / Relocation)
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/rafik-rouabah" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/dz31Tabizoo" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dz31Tabizoo&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz31Tabizoo&layout=compact&hide_border=true" />
-</p>
-
----
-
-⭐️ *Focused on learning, building, and delivering reliable .NET solutions.*
+⭐️ *Focused on building reliable, database-driven .NET solutions.*
